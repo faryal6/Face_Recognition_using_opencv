@@ -2,9 +2,9 @@
 model is trained and tested on images and webcam
 
 
-'''
-collecting images.ipynb
-'''
+''
+face-recognition-using-webcam.ipynb
+''
 
 '''
 training dataset.ipynb
