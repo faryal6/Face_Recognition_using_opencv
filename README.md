@@ -9,7 +9,7 @@ Run collecting_face_images.ipynb
 ```
 2)For training and testing on images:
 ```
-Run training dataset.ipynb
+Run Dataset-training-testing-on-images.ipynb
 ```
 3) For testing using webcam:
 ```
